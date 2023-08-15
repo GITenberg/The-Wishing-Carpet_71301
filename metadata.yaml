@@ -1,5 +1,8 @@
 _repo: The-Wishing-Carpet_71301
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71301-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, Ruth Comfort
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9175
     wikipedia: https://en.wikipedia.org/wiki/Ruth_Comfort_Mitchell_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71301#The-Wishing-Carpet
 gutenberg_issued: '2023-07-30'
 identifiers:
   gutenberg: '71301'
